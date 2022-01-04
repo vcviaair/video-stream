@@ -9,7 +9,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/doozylab",
-    "repository": "https://github.com/doozylab-lk/video-stream",
+    "repository": "https://github.com/vcviaair/video-stream",
     "success_url": "https://github.com/doozylab-lk",
     "env": {
         "API_ID": {
